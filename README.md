@@ -2,7 +2,7 @@
 
 Uma aplicação para **dividir vídeos longos em partes menores iguais**, com interface escura estilizada e fácil de usar — feita em **Python + MoviePy + Tkinter**.
 
-![Captura de processamento](src/captura de processamento.png)
+![Captura de processamento](src/captura-de-processamento.png)
 
 ---
 
