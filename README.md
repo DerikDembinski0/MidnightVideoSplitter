@@ -21,7 +21,7 @@ Uma aplicação para **dividir vídeos longos em partes menores iguais**, com in
 
 Baixe a versão `.exe` para Windows:
 
-👉 [🔗 Ir para Releases](https://github.com/DerikDembinski0/MidnightVideoSplitter/releases)
+👉 [🔗 Ir para Releases](https://github.com/DerikDembinski0/MidnightVideoSplitter/releases/tag/1.0)
 
 > Sem precisar instalar Python ou dependências!
 
