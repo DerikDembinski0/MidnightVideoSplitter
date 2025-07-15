@@ -1,0 +1,23 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 🧪 Ambientes virtuais
+.venv/
+env/
+venv/
+
+# 🏗️ Arquivos de build do PyInstaller
+build/
+dist/
+*.spec
+
+# 💻 Executáveis
+*.exe
+
+# 📦 Outros
+*.log
+*.DS_Store
+Thumbs.db
